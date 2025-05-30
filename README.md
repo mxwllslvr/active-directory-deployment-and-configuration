@@ -211,8 +211,9 @@ Using `mstsc`, connect to **Client-1** with `mydomain.com\jane_admin`.
 2. Confirm **MYDOMAIN\Domain Users** appears in the Remote Desktop Users list, then click **OK**
 
 **Observation**: Non-admin users in the **Domain Users** group can now access **Client-1** via Remote Desktop, enhancing domain-wide accessibility.
+<br/><br/>
 
----
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <br/><br/>
 
@@ -235,9 +236,7 @@ This procedure successfully deployed and configured Active Directory within Azur
 
 This setup prepares the environment for adding domain users in future projects, showcasing the power of cloud-based Active Directory. To manage costs, stop both VMs in Azure when not in use. This concludes the deployment process, equipping you with essential Active Directory administration skills.
 
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
-<br/><br/>
+---
 
 <div align="center">
 
